@@ -132,6 +132,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Extracts information such as email addresses, creditcard numbers and histrograms from disk images
 - [floss](https://github.com/mandiant/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
 - :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
+- [flashphysician](https://github.com/Rasfooo/flashphysician) - Diagnose, repair and recover USB flash drives, SD cards and memory cards; rebuilds lost partition tables, detects fake-capacity flash, carves files by signature
 - :zzz: [swap_digger](https://github.com/sevagas/swap_digger) - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
 
 ### Memory Forensics
